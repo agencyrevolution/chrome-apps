@@ -1,0 +1,21 @@
+{
+  "name": "Zendesk",
+  "description": "Support ticket system.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "https://agencyrevolution.zendesk.com"
+    ],
+    "launch": {
+      "web_url": "https://agencyrevolution.zendesk.com"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
