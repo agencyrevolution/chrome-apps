@@ -1,0 +1,21 @@
+{
+  "name": "OfficeAutoPilot",
+  "description": "An all-in-one business and marketing platform designed for information marketers, experts, and coaches.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "https://www1.moon-ray.com/v2.4/admin.php"
+    ],
+    "launch": {
+      "web_url": "https://www1.moon-ray.com/v2.4/admin.php"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}

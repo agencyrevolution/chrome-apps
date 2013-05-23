@@ -1,0 +1,21 @@
+{
+  "name": "moonray",
+  "description": "Watch Business Evolve",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "http://masteradmin.moon-ray.com/customers.php"
+    ],
+    "launch": {
+      "web_url": "http://masteradmin.moon-ray.com/customers.php"
+    }
+  },
+  "permissions": [
+    "unlimitedStorage",
+    "notifications"
+  ]
+}
